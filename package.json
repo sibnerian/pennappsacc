@@ -1,0 +1,13 @@
+{
+	"name" : "PennAppsAcc",
+	"version" : "0.1.0" ,
+	"dependencies" : {
+		"express" : "*",
+		"jade" : "*",
+		"aws-sdk" : "*"
+	},
+	"engines" : {
+		"node" : "0.8.x",
+		"npm" : "1.1.x"
+	}
+}
