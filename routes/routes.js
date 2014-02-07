@@ -1,5 +1,6 @@
 var getMain = function(req, res) {
-	res.render('index.html');
+    console.log("I change automagically")
+	res.render('index.jade');
 };
 
 var routes = {
